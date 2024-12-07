@@ -1,0 +1,6 @@
+/target/
+**/*.rs.bk
+*.log
+*.toml.bk
+Cargo.lock
+.vscode
